@@ -4,6 +4,7 @@
 
 - OSS H2O-3
 - OSS AutoML
+- Wave
 - DataTable
 
 🏭 You can also try our enterprise producs:
