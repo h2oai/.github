@@ -2,10 +2,10 @@
 
 🙋‍♀️ Start with our Open Source projects
 
-- OSS H2O-3
-- OSS AutoML
-- Wave
-- DataTable
+- [H2O-3](https://github.com/h2oai/h2o-3) for scalable machine learning
+- [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) for automated machine learning
+- [Wave](https://github.com/h2oai/wave) for realtime apps
+- [datatable](https://github.com/h2oai/datatable), a Python package for manipulating 2-dimensional tabular data structures
 
 🏭 You can also try our enterprise producs:
   - [H2O AI Cloud](https://h2o.ai/platform/ai-cloud/)
