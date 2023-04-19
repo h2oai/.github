@@ -4,6 +4,8 @@
 
 - [H2O-3](https://github.com/h2oai/h2o-3) for scalable machine learning
 - [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) for automated machine learning
+- [h2oGPT](https://github.com/h2oai/h2ogpt) for the best open-source GPT
+- [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) no-code LLM fine-tuning
 - [Wave](https://github.com/h2oai/wave) for realtime apps
 - [datatable](https://github.com/h2oai/datatable), a Python package for manipulating 2-dimensional tabular data structures
 
