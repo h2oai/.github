@@ -8,6 +8,7 @@
 - [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) no-code LLM fine-tuning
 - [Wave](https://github.com/h2oai/wave) for realtime apps
 - [datatable](https://github.com/h2oai/datatable), a Python package for manipulating 2-dimensional tabular data structures
+- [AITD](https://github.com/h2oai/AITD) [Co-creation with Commonwealth Bank of Australia](https://www.commbank.com.au/articles/newsroom/2023/11/next-chapter-open-artificial-intelligence-model.html) AI for Good to fight Financial Abuse.
 
 🏭 You can also try our enterprise producs:
   - [H2O AI Cloud](https://h2o.ai/platform/ai-cloud/)
