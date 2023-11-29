@@ -10,7 +10,7 @@
 - [datatable](https://github.com/h2oai/datatable), a Python package for manipulating 2-dimensional tabular data structures
 - [AITD](https://github.com/h2oai/AITD) [Co-creation with Commonwealth Bank of Australia](https://www.commbank.com.au/articles/newsroom/2023/11/next-chapter-open-artificial-intelligence-model.html) AI for Good to fight Financial Abuse.
 
-🏭 You can also try our enterprise producs:
+🏭 You can also try our enterprise products:
   - [H2O AI Cloud](https://h2o.ai/platform/ai-cloud/)
   - [Driverless AI](https://h2o.ai/platform/ai-cloud/make/h2o-driverless-ai/)
   - [Enterprise h2oGPT](https://h2o.ai/platform/enterprise-h2ogpt/)
