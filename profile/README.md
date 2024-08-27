@@ -13,7 +13,7 @@
 🏭 You can also try our enterprise products:
   - [H2O AI Cloud](https://h2o.ai/platform/ai-cloud/)
   - [Driverless AI](https://h2o.ai/platform/ai-cloud/make/h2o-driverless-ai/)
-  - [Enterprise h2oGPT](https://h2o.ai/platform/enterprise-h2ogpt/)
+  - [Enterprise h2oGPTe](https://h2o.ai/platform/enterprise-h2ogpte/)
 
 Please visit https://h2o.ai for more details.
 
