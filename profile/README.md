@@ -17,6 +17,11 @@
 
 Please visit https://h2o.ai for more details.
 
+---
+
+> [!TIP]
+> You can find [project release KEYS here](../KEYS).
+
 <!--
 
 **Here are some ideas to get you started:**
